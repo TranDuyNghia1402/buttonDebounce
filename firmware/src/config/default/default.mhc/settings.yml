@@ -1,0 +1,13 @@
+configName: default
+folderName: button_debounce
+format_version: v1.0
+frameworkPath: G:\Embedded Tools\PIC\Harmony
+processor: PIC32MK0512MCJ064
+projectName: button_debounce
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: PIC32MK-MC_DFP\1.11.151
